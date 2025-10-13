@@ -1,5 +1,5 @@
 # mysql
 
-Includes MariaDD stuff
+Includes MariaDb stuff
 
 Linux only
